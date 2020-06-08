@@ -1,3 +1,149 @@
-body{
-    background-image: url(img/body.jpg);
+.fondo{
+    background-image: url(../img/body.jpg);
+    background-size: 1326px 698px;
+    background-repeat: no-repeat;
 }
+
+h1{
+    color: bisque;
+    opacity: 0.5;
+    text-align: center;
+    top: 15px;
+    font-style: italic;
+}
+
+p{
+    position: absolute;
+    color: bisque;
+    font-size: 15px;
+    opacity: 0.4;
+    top: 50px;
+    left: 385px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+footer{
+    color: bisque;
+    position: absolute;
+    left: 100px;
+    top: 600px;
+    opacity: 0.5;
+}
+
+
+.img_cualidades:hover{opacity: 1;}
+
+.img1{
+    border-radius: 35px;
+    opacity: 0.3;
+    position: absolute;
+    width: 220px;
+    height: 120px;
+    left: 200px;
+    top: 130px;
+}
+
+.img2{
+    border-radius: 35px;
+    opacity: 0.3;
+    position: absolute;
+    width: 220px;
+    height: 120px;
+    left: 550px;
+    top: 130px;
+}
+
+.img3{
+    border-radius: 35px;
+    opacity: 0.3;
+    position: absolute;
+    width: 220px;
+    left: 890px;
+    top: 130px;
+}
+
+.img4{
+    border-radius: 35px;
+    opacity: 0.3;
+    position: absolute;
+    width: 220px;
+    height: 120px;
+    left: 360px;
+    top: 320px;
+}
+
+.img5{
+    border-radius: 35px;
+    opacity: 0.3;
+    position: absolute;
+    width: 220px;
+    height: 120px;
+    left: 720px;
+    top: 320px;
+}
+
+.img6{
+    border-radius: 35px;
+    opacity: 0.4;
+    position: absolute;
+    width: 220px;
+    height: 120px;
+    left: 550px;
+    top: 500px;
+}
+
+/*Ch4t0*/
+a{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+.agil{
+    position: absolute;
+    top: 255px;
+    left: 285px;
+    opacity: 0.8;
+}
+
+.optimista{
+    position: absolute;
+    top: 253px;
+    left: 610px;
+    opacity: 0.8;
+}
+
+.extro{
+    position: absolute;
+    top: 253px;
+    left: 940px;
+    opacity: 0.8;
+}
+
+.alegre{
+    position: absolute;
+    top: 443px;
+    left: 435px;
+    opacity: 0.8;
+}
+
+.respetuoso{
+    position: absolute;
+    top: 443px;
+    left: 775px;
+    opacity: 0.8;
+}
+
+.sincero{
+    position: absolute;
+    top: 622px;
+    left: 625px;
+    opacity: 0.8;
+}
+
+
