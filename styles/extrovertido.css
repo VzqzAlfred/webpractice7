@@ -1,0 +1,13 @@
+.fondo{
+    background-image: url(../img/extrovertido.jpg);
+    background-size: 1326px 698px;
+    background-repeat: no-repeat;
+}
+
+footer{
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 600px;
+    opacity: 0.3;
+}
