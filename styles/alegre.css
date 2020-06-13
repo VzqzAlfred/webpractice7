@@ -1,0 +1,13 @@
+.fondo{
+    background-image: url(../img/alegre.jpg);
+    background-size: 1326px 698px;
+    background-repeat: no-repeat;
+}
+
+footer{
+    color: whitesmoke;
+    position: absolute;
+    left: 100px;
+    top: 600px;
+    opacity: 0.3;
+}
