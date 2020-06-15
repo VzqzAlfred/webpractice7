@@ -30,6 +30,7 @@ footer{
     position: absolute;
     left: 100px;
     top: 600px;
+    font-style: italic;
     opacity: 0.5;
 }
 
