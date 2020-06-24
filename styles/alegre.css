@@ -44,6 +44,7 @@ a{
     color: whitesmoke;
     font-weight: 12px;
     font-weight: bolder;
+    opacity: 0.5;
 }
 
 .perrito_izq{
@@ -70,3 +71,12 @@ a{
 .perrito:hover{opacity: 1.0;}
 
 
+h1{
+    position: absolute;
+    left: 560px;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 40px;
+    top: -5px;
+    opacity: 0.5;
+}

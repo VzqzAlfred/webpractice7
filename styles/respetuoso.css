@@ -29,12 +29,15 @@ p{
     font-weight: 10px;
     padding-left: 25px;
     padding-right: 25px;
+    color: khaki;
 }
 
 .def{ margin-top: 50px; }
 
-h2{ font-family: cursive; }
-
+h2{ 
+    font-family: cursive; 
+    color: khaki;
+}
 
 a{
     position: absolute;
@@ -44,4 +47,15 @@ a{
     color: rgb(250,250,250, 0.6);
     font-weight: 12px;
     font-weight: bolder;
+}
+
+h1{
+    position: absolute;
+    left: 520px;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 40px;
+    top: -5px;
+    opacity: 0.5;
+    color: khaki;
 }
