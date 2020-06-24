@@ -32,6 +32,19 @@ p{
     padding-right: 25px;
 }
 
+td{
+    position: relative;
+    border-style: double;
+    border-color: #8BACDC;
+    border-radius: 20px;
+    font-family: cursive;
+    font-weight: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    left: 90px;
+}
+
 .def{ margin-top: 50px; }
 
 h2{ font-family: cursive; }
